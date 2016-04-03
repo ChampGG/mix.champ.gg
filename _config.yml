@@ -1,8 +1,8 @@
 # Site settings
-title: PugChamp
+title: MixChamp
 description:
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://pug.champ.gg" # the base hostname & protocol for your site
+url: "http://mix.champ.gg" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
